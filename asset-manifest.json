@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.e6c13ad2.css",
-    "main.js": "/resume/static/js/main.481f523a.js",
+    "main.js": "/resume/static/js/main.d142d3af.js",
     "static/js/453.f19e9853.chunk.js": "/resume/static/js/453.f19e9853.chunk.js",
     "static/media/my-photo.jpeg": "/resume/static/media/my-photo.6ccefa2f9c1c297f702e.jpeg",
     "static/media/llm-ventures-logo.png": "/resume/static/media/llm-ventures-logo.8ef4c5b5f8f30f58b86c.png",
@@ -10,11 +10,11 @@
     "static/media/gtc.webp": "/resume/static/media/gtc.2f150b6b50352e49af78.webp",
     "index.html": "/resume/index.html",
     "main.e6c13ad2.css.map": "/resume/static/css/main.e6c13ad2.css.map",
-    "main.481f523a.js.map": "/resume/static/js/main.481f523a.js.map",
+    "main.d142d3af.js.map": "/resume/static/js/main.d142d3af.js.map",
     "453.f19e9853.chunk.js.map": "/resume/static/js/453.f19e9853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.481f523a.js"
+    "static/js/main.d142d3af.js"
   ]
 }
