@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.4c630f51.css",
-    "main.js": "/resume/static/js/main.227eb42e.js",
+    "main.css": "/resume/static/css/main.9d941e07.css",
+    "main.js": "/resume/static/js/main.6fc2dfea.js",
     "static/js/453.f19e9853.chunk.js": "/resume/static/js/453.f19e9853.chunk.js",
     "static/media/my-photo.jpeg": "/resume/static/media/my-photo.6ccefa2f9c1c297f702e.jpeg",
     "static/media/helmholtz-fonds-logo.svg": "/resume/static/media/helmholtz-fonds-logo.5cae29d629e5f873c71912f884f0eff2.svg",
     "static/media/aut-logo.jpeg": "/resume/static/media/aut-logo.d68875fe52defc51a7e7.jpeg",
     "static/media/gtc.webp": "/resume/static/media/gtc.2f150b6b50352e49af78.webp",
     "index.html": "/resume/index.html",
-    "main.4c630f51.css.map": "/resume/static/css/main.4c630f51.css.map",
-    "main.227eb42e.js.map": "/resume/static/js/main.227eb42e.js.map",
+    "main.9d941e07.css.map": "/resume/static/css/main.9d941e07.css.map",
+    "main.6fc2dfea.js.map": "/resume/static/js/main.6fc2dfea.js.map",
     "453.f19e9853.chunk.js.map": "/resume/static/js/453.f19e9853.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c630f51.css",
-    "static/js/main.227eb42e.js"
+    "static/css/main.9d941e07.css",
+    "static/js/main.6fc2dfea.js"
   ]
 }
